@@ -1,2 +1,3 @@
-README нд╣╣
+README О©╫д╣О©╫
 1. git init
+2. git push origin master
